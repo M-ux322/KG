@@ -1,0 +1,24 @@
+Starting Vulkan initialization
+Vulkan instance created successfully
+Starting Vulkan initialization
+Vulkan instance created successfully
+Starting Vulkan initialization
+Vulkan instance created successfully
+Creating Vulkan surface
+Vulkan surface created successfully
+Starting Vulkan initialization
+Vulkan instance created successfully
+Creating Vulkan surface
+Vulkan surface created successfully
+Starting Vulkan initialization
+Vulkan instance created successfully
+Creating Vulkan surface
+Vulkan surface created successfully
+Physical device selected successfully
+Logical device created successfully
+Starting Vulkan initialization
+Vulkan instance created successfully
+Creating Vulkan surface
+Vulkan surface created successfully
+Physical device selected successfully
+Logical device created successfully
